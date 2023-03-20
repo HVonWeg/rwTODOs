@@ -1,5 +1,4 @@
-# Ideas for my craftss
+# Arts`n` Crafts Tutorial ideas
 
-- [ ] Craft 1
-- [ ] Craft 2
-- [ ] Craft 3
+- [ ] Glass blowing
+- [ ] Felting
